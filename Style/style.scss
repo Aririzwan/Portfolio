@@ -1,0 +1,25 @@
+$font_poppins: 'Poppins', sans-serif;
+
+.navbar-brand {
+ font-family: $font_poppins;
+ font-weight: bold;
+ font-size: 30px;
+}
+
+.nav-item {
+    font-family: $font_poppins;
+    font-weight: normal;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+    
+    h1 {
+        font-weight: bold;
+    }
+}
+
+#projects {
+    background-color: #e2edff;
+}
